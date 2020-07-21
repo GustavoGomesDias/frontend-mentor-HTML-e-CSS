@@ -1,0 +1,69 @@
+Seu desafio é criar essa seção de recursos e fazer com que pareça o mais próximo possível do design.
+
+Você pode usar as ferramentas que desejar para ajudá-lo a concluir o desafio. Portanto, se você tem algo que gostaria de praticar, sinta-se à vontade para tentar.
+
+
+Seus usuários devem:
+- Veja o layout ideal para o site, dependendo do tamanho da tela do dispositivo.
+
+
+Onde encontrar tudo
+
+Sua tarefa é construir o projeto para os designs dentro da pasta `/ design`. Você encontrará uma versão móvel e uma desktop do design para trabalhar.
+
+Os desenhos estão no formato estático JPG. Isso significa que você precisará usar seu bom senso para estilos como `tamanho da fonte`,` preenchimento` e `margem '. Isso deve ajudar a treinar seu olho para perceber diferenças de espaçamento e tamanho.
+
+Se você deseja que o arquivo Sketch seja inspecionado com mais detalhes, ele está disponível em https://bmc.xyz/l/uXWTfHQ53
+
+Você encontrará todos os recursos necessários na pasta `/ images`. Os assets já estão otimizados.
+
+Há também um arquivo `style-guide.md`, que contém as informações necessárias, como paleta de cores e fontes.
+
+Sinta-se livre para usar qualquer fluxo de trabalho com o qual se sinta confortável. Abaixo está um processo sugerido, mas não é necessário seguir estas etapas:
+
+1. Inicialize seu projeto como um repositório público no [GitHub] (https://github.com/). Isso facilitará o compartilhamento do seu código com a comunidade, se você precisar de ajuda. Se você não tiver certeza de como fazer isso, [leia este recurso Try Git] (https://try.github.io/).
+
+2. Configure seu repositório para publicar seu código em uma URL. Isso também será útil se você precisar de ajuda durante um desafio, pois poderá compartilhar o URL do seu projeto com o URL do repo. Existem várias maneiras de fazer isso, mas recomendamos o uso do [Vercel] (https://bit.ly/fem-vercel). Temos mais informações sobre a implantação do seu projeto com a Vercel abaixo.
+
+3. Examine os projetos para começar a planejar como você lidará com o projeto. Esta etapa é crucial para ajudá-lo a pensar no futuro das classes CSS que você pode criar para criar estilos reutilizáveis.
+4. Antes de adicionar qualquer estilo, estruture seu conteúdo com HTML. Escrever seu HTML primeiro pode ajudar a concentrar sua atenção na criação de conteúdo bem estruturado.
+
+5. Escreva os estilos base do seu projeto, incluindo estilos gerais de conteúdo, como `font-family` e` font-size`.
+6. Comece a adicionar estilos ao topo da página e trabalhe para baixo. Somente passe para a próxima seção quando estiver satisfeito com a conclusão da área em que está trabalhando.
+
+7. Se você deseja tentar tornar seu projeto totalmente responsivo, recomendamos verificar o [Sizzy] (https://bit.ly/fm-sizzy). É um ótimo navegador que facilita a visualização do site em vários dispositivos.
+
+Implantando seu projeto
+
+1. [Inscreva-se no Vercel] (https://bit.ly/fem-vercel-signup) e passe pelo fluxo de integração, garantindo que sua conta do GitHub esteja conectada usando o [Vercel for GitHub] (https: // vercel Integração .com / docs / v2 / git-integrations / vercel-for-github).
+
+2. Conecte seu projeto ao Vercel na página ["Importar projeto"] (https://vercel.com/import), usando o botão "Do repositório do Git" e selecionando o projeto que deseja implantar.
+
+3. Uma vez conectado, toda vez que você `git push`, o Vercel criará uma nova [implantação](https://vercel.com/docs/v2/platform/deployments) e o URL de implantação será mostrado no seu [Painel] (https://vercel.com/dashboard). Você também receberá um email para cada implantação com o URL.
+
+Compartilhando sua solução
+
+Existem vários lugares nos quais você pode compartilhar sua solução:
+
+1. Envie-o na plataforma para que outros usuários vejam sua solução no site. Aqui está nosso ["Guia completo para o envio de soluções"] (https://medium.com/frontend-mentor/a-complete-guide-to-submitting-solutions-on-frontend-mentor-ac6384162248) para ajudá-lo a fazer isso.
+
+2. Compartilhe sua página de solução no canal ** # finished-projects ** da [comunidade Slack] (https://www.front alteror.io/slack).
+
+3. Tweet [@frontorderor] (https://twitter.com/front alteror) e mencione ** @ front alteror **, incluindo o repo e os URLs ativos no tweet. Gostaríamos muito de dar uma olhada no que você criou e ajudar a compartilhá-lo.
+
+Dando feedback
+
+O feedback é sempre bem-vindo; portanto, se você tiver algum a dar sobre esse desafio, envie um e-mail para oi [at] front alteror [dot] io.
+
+Este desafio é totalmente gratuito. Compartilhe-o com qualquer um que achar útil para a prática.
+
+Divirta-se construindo!
+
+Um enorme obrigado aos patrocinadores da nossa comunidade!
+
+- [Sizzy] (https://bit.ly/fm-sizzy) é um navegador extremamente útil projetado especificamente para melhorar o fluxo de trabalho de um desenvolvedor ao criar sites. Você pode ativar vários emuladores de dispositivos e executá-los em sincronia enquanto cria suas páginas da web. Perfeito para ajudar a criar sites totalmente responsivos!
+- [Diversify Tech] (https://bit.ly/fem-diversify-tech) é um recurso incrível para pessoas sub-representadas em tecnologia. O site apresenta listas de empregos para quem procura novas oportunidades. A seção de recursos também está cheia de links úteis para você mergulhar!
+- [Dracula PRO] (https://bit.ly/fem-dracula) é um belo tema sombrio para ajudar a manter você concentrado e produtivo enquanto codifica. O tema não é apenas para o seu editor. Você também pode aplicá-lo aos seus aplicativos mais usados, como seu terminal e até o Slack!
+
+
+

@@ -1,0 +1,48 @@
+ Reliable, efficient delivery
+  Powered by Technology
+  <!--
+    TRADUÇÃo
+
+    Entrega confiável e eficiente
+    Desenvolvido por tecnologia
+
+  -->
+
+  Our Artificial Intelligence powered tools use millions of project data points 
+  to ensure that your project is successful
+
+  <!--
+    Nossas ferramentas de inteligência artificial usam milhões de pontos de dados do projeto
+    para garantir que seu projeto seja bem-sucedido
+  -->
+
+  Supervisor
+  Monitors activity to identify project roadblocks
+
+  <!--
+    Supervisor
+    Monitora a atividade para identificar roadblocks do projeto
+  -->
+
+  Team Builder
+  Scans our talent network to create the optimal team for your project
+
+  <!--
+    Team Builder
+    Escaneia nossa rede de talentos para criar a equipe ideal para o seu projeto
+  -->
+
+  Karma
+  Regularly evaluates our talent to ensure quality
+  <!--
+    Karma
+    Avalia regularmente nosso talento para garantir a qualidade
+  -->
+
+  Calculator
+  Uses data from past projects to provide better delivery estimates
+
+  <!--
+    Calculator
+    Usa dados de projetos anteriores para fornecer melhores estimativas de entrega
+  -->
