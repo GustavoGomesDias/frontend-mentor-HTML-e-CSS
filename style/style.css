@@ -121,36 +121,19 @@ p{
 
     #calculator{
         margin: auto;
-        border-top-color: rgb(101, 101, 248);
-        border-top-width: medium;
-        border-top-style: solid;
-        /*Borda do topo*/
     }
     
     #supervisor{
         margin: auto;
-        border-top-color: rgb(111, 111, 189);
-        border-top-width: medium;
-        border-top-style: solid;
-        /*Borda do topo*/
     }
     
     #team{
         /* Pra criar espaço entre os blocos */
         margin: auto;
-        border-top-color: red;
-        border-top-width: medium;
-        border-top-style: solid;
-        /*Borda do topo*/
-    
     }
     #karma{
         /* Pra criar espaço entre os blocos */
         margin: auto;
-        border-top-color: rgb(233, 205, 114);
-        border-top-width: medium;
-        border-top-style: solid;
-        /*Borda do topo*/
     }
     #center{
         clear: both;
