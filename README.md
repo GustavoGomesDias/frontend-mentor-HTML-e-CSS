@@ -5,4 +5,4 @@
 ### - [ x ] Responsividade (eu acho).
 Esse aqui é meu primeiro script com responsividade, o que não foi mutio difícil, mas não sei se tá 100% certo, então tô aceitando dicas, claro, se alguém passar por aqui. :rofl:
 
-![Imagem em pé]()
+![Imagem em pé](https://raw.githubusercontent.com/GustavoGomesDias/frontend-mentor-HTML-e-CSS/master/deitado.png)
