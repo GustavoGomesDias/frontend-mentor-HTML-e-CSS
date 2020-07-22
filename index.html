@@ -10,10 +10,9 @@
 
   <!-- Feel free to remove these styles or customise in your own stylesheet 👍 -->
   <!--Sinta-se à vontade para remover esses estilos ou personalizar sua própria folha de estilo 👍-->
-  <style>
-    .attribution { font-size: 11px; text-align: center; }
-    .attribution a { color: hsl(228, 45%, 44%); }
-  </style>
+
+  <link rel="stylesheet" href="style/style.css">
+
 </head>
 <body>
  
@@ -23,41 +22,38 @@
   
     <p>Our Artificial Intelligence powered tools use millions of project data points to ensure that your project is successful</p>
   </header>
-    <section id="main">
-      <!--Section é usado quando vc tem que agrupar tags que n representam nada como lista (ul, ol), navegação (nav) e etc-->
+    <main>
+      <section id="card">
+        <!--Section é usado quando vc tem que agrupar tags que n representam nada como lista (ul, ol), navegação (nav) e etc-->
+        <div class="info" id="supervisor">
   
-      <div class="info" id="supervisor">
-  
-        <h3>Supervisor</h3>
-        <p>Monitors activity to identify project roadblocks</p>
-  
-      </div>
-      <div id="centro">
+          <h3>Supervisor</h3>
+          <p class="card-p">Monitors activity to identify project roadblocks</p>
+    
+        </div>
 
-        <div class="info" id="team">
+        <div class="info" id="team" class="center">
 
           <h3>Team Builder</h3>
-          <p>Scans our talent network to create the optimal team for your project</p>
+          <p class="card-p">Scans our talent network to create the optimal team for your project</p>
     
         </div>
 
         <div class="info" id="karma">
   
           <h3>Karma</h3>
-          <p>Regularly evaluates our talent to ensure quality</p>
+          <p class="card-p">Regularly evaluates our talent to ensure quality</p>
+        </div>
+  
+        <div class="info" id="calculator">
     
-        </div >
-
-      </div>
-
-      <div class="info" id="calculator">
+          <h3>Calculator</h3>
+          <p class="card-p">Uses data from past projects to provide better delivery estimates</p>
+    
+        </div>
   
-        <h3>Calculator</h3>
-        <p>Uses data from past projects to provide better delivery estimates</p>
-  
-      </div>
-
-    </section>
+      </section>
+    </main>
 
   <footer>
     <p class="attribution">

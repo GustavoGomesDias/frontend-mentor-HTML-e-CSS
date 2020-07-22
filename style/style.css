@@ -1,0 +1,66 @@
+@import url(https://fonts.google.com/specimen/Poppins);
+
+
+.attribution { font-size: 11px; text-align: center; }
+.attribution a { color: hsl(228, 45%, 44%); }
+
+body{
+    font-family: 'Poppins', sans-serif;
+}
+
+header{
+    text-align: center;
+    margin: 0px 100px;
+}
+
+header h2{
+    margin-top: -20px;
+}
+header p{
+    margin-top: -10px
+}
+
+main{
+    display: flex;
+    justify-content: center;
+}
+
+.info{
+    width: 220px;
+    height: 180px;
+    border: 2px solid rgba(0, 0, 0, 0.3);
+    box-shadow: 4px 1px 4px rgba(0, 0, 0, 0.4);
+    background-color: white;
+    display: flex;
+    position: relative;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    display: flex
+    
+
+}
+
+.info h3{
+    text-align: center;
+}
+
+.card-p{
+    text-align: left;
+    font-size: 12pt;
+}
+
+#supervisor{
+    display: flex;
+    border-top-color: black;
+    float: left;
+}
+
+#calculator{
+    display: flex;
+    float: right;
+}
+
+.center{
+    position: absolute;
+    flex-direction: column;
+}
